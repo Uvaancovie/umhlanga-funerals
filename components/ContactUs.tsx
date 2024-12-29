@@ -21,7 +21,7 @@ const ContactUs = () => {
       icon: <MapPin className="w-6 h-6" />,
       title: "Visit Us",
       description: "Our office location",
-      primary: "27 Meridian Drive, Umhlanga Ridge",
+      primary: "27 Meridian Drive, U Ridge",
       secondary: "Umhlanga, Durban"
     },
     {
@@ -42,7 +42,7 @@ const ContactUs = () => {
             Contact Us
           </h2>
           <p className="text-xl text-gray-600">
-            We're here to help you 24/7. Reach out to us through any of these channels.
+            We are here to help you 24/7. Reach out to us through any of these channels.
           </p>
         </div>
 

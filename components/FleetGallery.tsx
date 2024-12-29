@@ -24,7 +24,7 @@ const FleetGallery = () => {
       description:
         "Luxurious comfort for family members, with spacious interior and premium amenities.",
       specs: "| Premium Comfort",
-      image: "/c-clas.png",
+      image: "/c-class.png",
       price: "Executive Service",
     },
     {
