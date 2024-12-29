@@ -108,7 +108,7 @@ const ContactUs = () => {
                     href="tel:+27000000000"
                     className="text-orange-500 hover:underline"
                   >
-                    +27 00 000 0000
+                    083 777 3447
                   </a>
                 </div>
               </div>
@@ -121,7 +121,7 @@ const ContactUs = () => {
                     href="mailto:info@example.com"
                     className="text-orange-500 hover:underline"
                   >
-                    info@example.com
+                    info@umhlangafunerals.co.za
                   </a>
                 </div>
               </div>
@@ -130,7 +130,7 @@ const ContactUs = () => {
                 <MapPin className="w-6 h-6 text-orange-500" />
                 <div>
                   <p className="text-gray-700 font-medium">Address</p>
-                  <p className="text-gray-600">123 Main Street, Umhlanga, SA</p>
+                  <p className="text-gray-600">27 Meridian Drive, Umhlanga, SA</p>
                 </div>
               </div>
             </div>
