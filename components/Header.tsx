@@ -67,7 +67,7 @@ const Header = () => {
           {/* Desktop Navigation */}
           <nav className="hidden md:flex space-x-8">
             <a
-              href="#hero"
+              href="/Home"
               className="text-black hover:text-orange-500 focus:outline-none focus:ring-2 focus:ring-orange-400"
             >
               Home
@@ -89,6 +89,13 @@ const Header = () => {
               className="text-black hover:text-orange-500 focus:outline-none focus:ring-2 focus:ring-orange-400"
             >
               Contact Us
+            </a>
+
+            <a
+              href="/policies"
+              className="text-black hover:text-orange-500 focus:outline-none focus:ring-2 focus:ring-orange-400"
+            >
+              Policies
             </a>
           </nav>
 

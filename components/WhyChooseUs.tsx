@@ -20,7 +20,7 @@ const WhyChooseUs = () => {
     {
       icon: <Shield className="w-12 h-12" />,
       title: "Comprehensive Policies",
-      description: "Affordable and comprehensive funeral policies starting at R299/month.",
+      description: "Affordable and comprehensive funeral policies starting at R81/month.",
       image: "/funeral-policies.png",
       alt: "Funeral policy documentation"
     },
