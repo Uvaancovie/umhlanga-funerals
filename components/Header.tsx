@@ -137,6 +137,13 @@ const Header = () => {
               >
                 Contact Us
               </a>
+
+              <a
+                href="/policies"
+                className="text-black hover:text-orange-500 focus:outline-none focus:ring-2 focus:ring-orange-400"
+              >
+                Policies
+              </a>
             </div>
           </nav>
         )}
